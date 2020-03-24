@@ -1,6 +1,7 @@
 # MAJOR_PROJECT-IOT_STREET_LIGHT
 
-AIM: To create our own IOT use case and design an architecture to solve our usecase and also controlling through the thinkspeak in smartphone.
+AIM:
+To create our own IOT use case and design an architecture to solve our usecase and also controlling through the thinkspeak in smartphone.
 
 INTRODUCTION ABOUT PROJECT :
 Most of the places have automatic street light which can sense the daytime and nighttime, and automatically turns on  and off according the night and day.so,in this project by adding one more constraint to turn on the light that is Street light will only glow if there is darkness and someone is passing through the street.
