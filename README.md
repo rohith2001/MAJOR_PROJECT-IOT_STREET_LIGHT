@@ -117,7 +117,6 @@ void loop() {
     {
       digitalWrite(led2,HIGH);
     }
-
     if(s3==0)
     {
       digitalWrite(led3,LOW);
